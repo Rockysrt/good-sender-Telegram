@@ -17,8 +17,11 @@
 
 # How to use
 first download the zip file then copy it to server  and run it 
+
 1- chose The NLbrute folder
+
 2-your telegram bot token from the BotFather
+
 3-your telegram chat id 
 
 this app is free // use and enjoy
