@@ -14,7 +14,7 @@
 
 # IMAGE
 ![](https://raw.githubusercontent.com/Rockysrt/good-sender/refs/heads/main/1.jpg)
-![](https://raw.githubusercontent.com/Rockysrt/good-sender/refs/heads/main/1.jpg)
+![](https://github.com/Rockysrt/good-sender/blob/main/2.jpg)
 
 
 # How to use
