@@ -1,4 +1,4 @@
-[![Author](https://img.shields.io/badge/Author-Carnom-blueviolet)](https://github.com/Rockysrt)
+[![Author](https://img.shields.io/badge/Author-Rockysrt-blueviolet)](https://github.com/Rockysrt)
 
 # GOOD SENDER
 
